@@ -1,2 +1,3 @@
 # atxmega256a3bu_breakout
-Breakout board for atxmega256a3bu
+
+Just a simple breakout board for the atxmega256a3bu.
